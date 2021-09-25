@@ -1,4 +1,4 @@
-# SSR机场自动签到脚本（适用于大部分基于SS-Panel的机场）    
+# SSR机场自动签到脚本（适用于大部分基于SS-Panel的机场）   
 
 > Note: 
 > + 支持`Python2` 和 `Python3`
